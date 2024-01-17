@@ -1,6 +1,6 @@
-#ifndef random_h   /* Include guard */
+#ifndef random_h 
 #define random_h
 
-int randchar();  /* An example function declaration */
+int randchar(); 
 
-#endif // FOO_H_
+#endif
